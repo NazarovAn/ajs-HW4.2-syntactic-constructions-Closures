@@ -1,4 +1,4 @@
-import findBy from '../find-by';
+import findBy from '../findBy';
 import results from '../app';
 
 test('should return one object', () => {

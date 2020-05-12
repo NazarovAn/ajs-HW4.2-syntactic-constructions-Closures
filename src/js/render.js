@@ -1,5 +1,5 @@
 import results from './app';
-import findBy from './find-by';
+import findBy from './findBy';
 
 const sortList = document.querySelector('.sort_list');
 const resultList = document.querySelector('.result_list');
